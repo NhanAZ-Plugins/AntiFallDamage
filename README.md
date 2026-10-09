@@ -13,7 +13,7 @@ The minimum server patch release and compatibility across every Axolotl-PM 5.x r
 
 ## Installation
 
-1. Download `AntiFallDamage.phar` from a successful [Build workflow](https://github.com/NhanAZ-Plugins/AntiFallDamage/actions/workflows/build.yml) or a verified GitHub release when available.
+1. Download `AntiFallDamage.phar` from the [v2.0.3 release](https://github.com/NhanAZ-Plugins/AntiFallDamage/releases/tag/v2.0.3).
 2. Place the PHAR in the server's `plugins` directory.
 3. Start the server to generate `config.yml`, then stop it before editing the configuration.
 4. Restart the server after changing the configuration.
