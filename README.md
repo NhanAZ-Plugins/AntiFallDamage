@@ -1,8 +1,15 @@
 # AntiFallDamage
 
-AntiFallDamage prevents fall damage for players in the worlds selected by the server configuration.
+Configurable fall damage protection for Axolotl-PM worlds and player permissions
 
-[![Build](https://github.com/NhanAZ-Plugins/AntiFallDamage/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/AntiFallDamage/actions/workflows/build.yml)
+[![CI](https://github.com/NhanAZ-Plugins/AntiFallDamage/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/AntiFallDamage/actions/workflows/build.yml)
+[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/AntiFallDamage)](https://github.com/NhanAZ-Plugins/AntiFallDamage/releases/latest)
+[![License](https://img.shields.io/github/license/NhanAZ-Plugins/AntiFallDamage)](https://github.com/NhanAZ-Plugins/AntiFallDamage/blob/master/LICENSE)
+[![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
+
+## Overview
+
+This plugin targets the PocketMine-MP and Axolotl-PM API 5 ecosystem and is maintained under [NhanAZ-Plugins](https://github.com/NhanAZ-Plugins).
 
 ## Requirements and compatibility
 
